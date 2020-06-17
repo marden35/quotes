@@ -54,6 +54,10 @@ var quotesArray = [
 {
 	message: "CIRO CIRO CIRO CIRO CIRO CIRO",
 	author: "Il Team"
+},
+{
+	message: "sul cliente in oggetto nel momento in cui passa alla versione beta del wsc il cognome passa da LUPO a MERLUZZO. Ho escluso qualsiasi anomalia di disallineamento tra codice contratto e codice cliente, inoltre non abbiamo nessun Merluzzo in anagrafica.",
+	author: "Sconosciuto, il giorno del rilascio"
 }
 ];
 
