@@ -10,6 +10,50 @@ var quotesArray = [
 {
 	message: "Troietta!",
 	author: "SD"
+},
+{
+	message: "Io sono Batman",
+	author: "MF"
+},
+{
+	message: "Thread!",
+	author: "LM"
+},
+{
+	message: "Facciamo un forum",
+	author: "LM"
+},
+{
+	message: "Mi chiedevo se anche voi sentivate l'esigenza di un sistema più automatizzato di notifiche di questi rilasci, come noi abbiamo fatto con il webhook su Slack",
+	author: "AG"
+},
+{
+	message: "Aiutatemi",
+	author: "AT"
+},
+{
+	message: "Non voglio farti perdere ulteriore tempo, grazie infinite",
+	author: "AT"
+},
+{
+	message: "Perdonami, sono duro di comprendonio",
+	author: "AT"
+},
+{
+	message: "Ragazzi nella card di offerte il 'te' deve essere minuscolo non maiuscolo, come scritto in sidebar",
+	author: "Sconosciuto, il giorno del rilascio"
+},
+{
+	message: "Ragazzi sia in home che in fatture 'Altri prodotti' deve andare con la 'p' minuscola",
+	author: "Sconosciuto, il giorno del rilascio"
+},
+{
+	message: "Kotlin!!!1!11!!",
+	author: "AG"
+},
+{
+	message: "CIRO CIRO CIRO CIRO CIRO CIRO",
+	author: "Il Team"
 }
 ];
 
